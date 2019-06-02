@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	int i, j, k, numOfRows = 4;
+	int i, j, k, numOfRows = 9;
 
 	for(i = 1; i <= numOfRows; i++) {
 		for(j = i; j < numOfRows; j++){
