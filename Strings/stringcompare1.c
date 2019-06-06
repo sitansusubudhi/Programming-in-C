@@ -10,6 +10,6 @@ int strcomp(char *s, char *t){
 
 int main() {
 	printf("\n%d", strcomp("Sitansu", "Subudhi"));
-	printf("\n%d", strcomp("ABCDE", "ABE"));
+	printf("\n%d", strcomp("ABEDE", "ABE"));
 	return 0;
 }
